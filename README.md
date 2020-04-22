@@ -18,5 +18,7 @@ It allows users to fliter cards by specific sets or name and allows the user to 
 #### Client Side ####
 * Readme.md for client available in /mtg-deck-builder2/client
 #### Server Side ####
-* npm install /mtg-deck-builder2/server
-* nodemon server.js /mtg-deckbuild2/server
+* npm install
+  * install list of dependency needed for server
+* nodemon server.js 
+  * run backend server
