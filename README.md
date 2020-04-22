@@ -12,5 +12,5 @@ It allows users to fliter cards by specific sets or name and allows the user to 
 * Material UI
 
 ### ScreenShots ###
-
+![home page view](https://github.com/achou022/MTG-Deck-Builder2/blob/master/screenshot/Screen%20Shot%202020-04-22%20at%2001.59.57.png)
 
